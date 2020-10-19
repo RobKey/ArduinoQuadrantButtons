@@ -8,7 +8,3 @@ provides
 
 28 buttons 7 rows(pins 6-12) 4 columns (pins 2-5) Button 1 pins12&5 button 28 pins 2&6
 
-https://github.com/RobKey/ArduinoQuadrantButtons/blob/main/quad-button-cct.png
-
-
-https://github.com/RobKey/ArduinoQuadrantButtons/blob/main/Screenshot%202020-10-19%20144429.png
